@@ -1,0 +1,15 @@
+{
+  "name": "rokma",
+  "version": "1.0.1",
+  "description": "npx ROKMA — CLI card of @toybreaker",
+  "bin": {
+    "rokma": "card.js"
+  },
+  "author": "ROKMA <me@rokma.com>",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1"
+  },
+  "type": "module"
+}

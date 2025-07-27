@@ -1,6 +1,10 @@
 # ROKMA
 
-One more geek npm card.
+One more geek npx card.
+
+
+![ROKMA's geek terminal card](/rkm_blocks.jpg)
+
 
 ### Usage
 

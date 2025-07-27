@@ -23,4 +23,6 @@ Shamelessly stolen from https://github.com/sindresorhus/sindresorhus
 
 https://github.com/dashed/albertoleal
 
+https://github.com/bnb/bitandbang
+
 License MIT.
